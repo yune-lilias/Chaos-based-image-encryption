@@ -1,5 +1,7 @@
 # Chaos-based-image-encryption
 Using chaos function to encrypt image (1.0 version)
+final version is https://github.com/yune-lilias/Image-encrypt-decrypt
+(much more faster than this one)
 
 init_imgpre: change image to string
 init_sha: use sha256 to get hash code of input string (image)
